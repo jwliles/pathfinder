@@ -206,7 +206,6 @@ None in current release.
 - **Automatic Backups**: Creates time-stamped backups of your `PATH` before any changes.
 - **Restoration**: Restore your `PATH` from any previous backup.
 - **Listing**: View all current entries in your `PATH`.
-- **Cross-Platform**: Compatible with Unix/Linux and macOS systems.
 - **Safe Modifications**: Validates directories before adding them to prevent errors.
 - **Persistent Changes**: Updates your shell configuration to make changes permanent.
 - **Enhanced Path Validation**: Robust detection and removal of invalid PATH entries
